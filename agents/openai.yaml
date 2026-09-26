@@ -1,0 +1,4 @@
+interface:
+  display_name: "MJ 真人影视提示词"
+  short_description: "为 Midjourney 编写纯英文角色与场景提示词，区分纯文字和情绪板模式"
+  default_prompt: "请使用 $mj-cinematic-prompts，先确认出图方式，再为我的画面写纯英文 MJ 提示词。"
