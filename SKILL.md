@@ -31,7 +31,7 @@ description: 为 Midjourney（MJ）创作、改写和精简纯英文图像提示
 
 默认横屏 `--ar 16:9`；用户指定比例、竖版角色图或设定卡布局时优先服从需求。没有必要显式指定 MJ 版本时继承用户当前设置，不凭旧记忆加 `--v`。
 
-写作时读取 [画面写法](references/visual-writing.md) 的对应任务部分；竖图改横屏、参考迁移或系列创作时，另读其中对应小节。需要参数时读 [MJ参数与P码](references/mj-parameters.md)。需要校准两种模式的差别时读 [同题对照示例](references/mode-examples.md)，不要每次向用户展开这些文档。
+写作时读取 [画面写法](references/visual-writing.md) 的对应任务部分；竖图改横屏、参考迁移或系列创作时，另读其中对应小节。需要参数时读 [MJ参数与P码](references/mj-parameters.md)。图要拿去当视频的第一帧或开场构图（MV、分镜图、首帧图）时，另读 [给视频当首帧](references/video-first-frame.md)。需要校准两种模式的差别时读 [同题对照示例](references/mode-examples.md)，不要每次向用户展开这些文档。
 
 ## A｜纯提示词建立画面与风格
 
