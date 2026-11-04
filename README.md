@@ -39,7 +39,9 @@ Claude Code个人skill安装路径与斜杠调用方式见[官方文档](https:/
 ## 文件
 
 - [SKILL.md](SKILL.md)：两种模式、提问流程与输出规则，两端共用。
+- [去油去脏写法](references/anti-oil-grime.md)：默认写法。短句顺序、替换表、质感尾句（含细胶片颗粒），防止图进视频后发油发脏。
 - [画面写法](references/visual-writing.md)：人物、空间、材质、光色与叙事静帧。
+- [给视频当首帧](references/video-first-frame.md)：MJ 图当视频第一帧时的构图与取舍。
 - [MJ参数](references/mj-parameters.md)：P码、风格化、版本兼容及官方来源。
 - [A/B英文对照](references/mode-examples.md)：三类画面的六条提示词。
 - `agents/openai.yaml`：Codex可选展示信息；Claude Code直接读取 `SKILL.md`，无需此元数据。
